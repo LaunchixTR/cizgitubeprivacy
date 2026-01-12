@@ -1,0 +1,42 @@
+Gizlilik Politikası – ÇizgiTube
+Son güncelleme: 12 Ocak 2026
+ÇizgiTube (“Uygulama”), kullanıcıların YouTube üzerinden çizgi film içeriklerine erişmesini kolaylaştıran bir mobil uygulamadır. Bu Gizlilik Politikası, Uygulama’nın hangi verileri işlediğini, hangi amaçlarla kullandığını ve üçüncü taraf hizmetlerle (Google AdMob, Firebase, YouTube) ilişkisini açıklar.
+
+1. Toplanan Veriler
+ÇizgiTube, temel kullanımda sizden doğrudan ad-soyad, TCKN gibi kimlik bilgileri istemez.
+Uygulamada aşağıdaki veri türleri işlenebilir:
+Uygulama içi tercih verileri: Seçtiğiniz kategoriler, favori kanal seçimi (uygulama deneyimini kişiselleştirmek için).
+Cihaz ve kullanım verileri (otomatik): Hata kayıtları, performans verileri, yaklaşık cihaz bilgileri (ör. Android sürümü, cihaz modeli) – genellikle Firebase aracılığıyla.
+Reklam verileri: Reklam gösterimi ve ölçümleme için AdMob/Google tarafından sağlanan reklam tanımlayıcıları ve etkileşim verileri işlenebilir.
+Not: Favori kanal gibi seçimler Firebase/yerel depolama ile saklanabilir.
+
+2. Verilerin Kullanım Amaçları
+Toplanan/işlenen veriler şu amaçlarla kullanılabilir:
+Uygulamanın çalışmasını sağlamak ve iyileştirmek
+Favori kanal / kategori seçimi gibi özellikleri sunmak
+Hata ayıklama ve performans analizi yapmak
+Reklamları göstermek ve reklam performansını ölçmek (AdMob)
+
+3. Üçüncü Taraf Hizmetler
+ÇizgiTube aşağıdaki hizmetleri kullanabilir:
+YouTube / Google APIs (Embedded Player): Uygulama içinden YouTube içerikleri oynatılır. YouTube, kendi gizlilik politikaları kapsamında çerez/cihaz verisi işleyebilir.
+Google AdMob: Reklam gösterimi ve ölçümleme için cihaz tanımlayıcıları ve reklam etkileşim verileri işlenebilir.
+Firebase (Google): Kanal listeleri, kategoriler, favori gibi veriler (uygulamanın tasarımına göre) saklanabilir; ayrıca crash/analytics gibi servisler kullanılıyorsa cihaz ve kullanım verileri işlenebilir.
+Bu servislerin verileri nasıl işlediği, ilgili sağlayıcıların politikalarına tabidir.
+
+4. Çocukların Gizliliği
+ÇizgiTube, özellikle çocuklara yönelik içeriklere erişim kolaylaştırıyor olabilir; ancak Uygulama, bilerek 13 yaş altı çocuklardan kişisel veri toplamayı hedeflemez. Eğer bir ebeveyn/vası, çocuğuna ait kişisel veri işlendiğini düşünürse geliştirici ile iletişime geçebilir.
+(Eğer uygulamanı Google Play’de “çocuklara yönelik” olarak işaretlediysen, AdMob ve veri toplama ayarlarında ayrıca COPPA/TFUA uyumu gerekir.)
+
+5. Verilerin Saklanması ve Güvenliği
+Veriler, mümkün olan en az seviyede tutulur. Firebase gibi servisler kullanılıyorsa, Google altyapısı üzerinde saklanabilir. Uygulama, makul güvenlik önlemlerini uygular; ancak internet üzerinden veri iletiminde %100 güvenlik garanti edilemez.
+
+6. Kullanıcı Hakları
+Kullanıcı olarak:
+Uygulama içi tercihleri değiştirebilir (kategori/favori)
+Uygulamayı kaldırarak yerel verileri silebilirsiniz
+Google reklam kişiselleştirmesini cihaz ayarlarından yönetebilirsiniz
+
+7. İletişim
+Gizlilik politikasıyla ilgili sorularınız için:
+E-posta: launchixtr@gmail.com
